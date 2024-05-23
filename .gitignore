@@ -1,0 +1,14 @@
+# remove node_modules
+node_modules
+
+# remove distribution folder
+dist
+
+# remove .env file
+.env
+
+# removing test coverage folder
+coverage
+
+# removing jest.config.js file
+jest.config.js
